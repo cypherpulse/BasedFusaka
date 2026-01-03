@@ -7,7 +7,7 @@
 [![Base](https://img.shields.io/badge/Built%20for-Base-0052FF.svg)](https://base.org/)
 
 <p align="center">
-  <img src="assets/fusaka.png" alt="BasedFusaka Token Logo" width="200"/>
+  <img src="assets/fusaka.png" alt="BasedFusaka Token Logo" width="400" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
 </p>
 
 A cutting edge ERC-20 token engineered for the Base ecosystem, combining institutional grade security with DeFi native flexibility. BasedFusaka empowers projects with seamless token management, emergency controls, and gas-optimized operations on Base's high-performance Layer 2 network.
